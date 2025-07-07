@@ -2,7 +2,7 @@
 
 🔧 **Python Backend Developer** | ⚡ FastAPI Enthusiast | 🧠 Exploring Data Science & Generative AI
 
-#![Profile Views](https://komarev.com/ghpvc/?username=priyanshugairola&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=priyanshugairola&color=blue)
 
 ---
 
