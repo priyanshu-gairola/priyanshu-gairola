@@ -2,7 +2,7 @@
 
 🔧 **Python Backend Developer** | ⚡ FastAPI Enthusiast | 🧠 Exploring Data Science & Generative AI
 
-![Profile Views](https://komarev.com/ghpvc/?username=priyanshugairola&color=blue)
+#![Profile Views](https://komarev.com/ghpvc/?username=priyanshugairola&color=blue)
 
 ---
 
@@ -54,7 +54,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshu-gairola-profile)  
 ✉️ Email: priyanshugairola03@gmail.com
-🌐 Portfolio: *Coming soon...*
 
 ---
 
