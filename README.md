@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Priyanshu Gairola
+#  Hi, I'm Priyanshu Gairola
 
 🔧 **Python Backend Developer** | ⚡ **FastAPI Enthusiast** | 🧠 Exploring **Data Science & Generative AI**
 
