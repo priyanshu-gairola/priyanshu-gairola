@@ -1,4 +1,4 @@
-#  Hi, I'm Priyanshu Gairola
+# 👋 Hi, I'm Priyanshu Gairola
 
 🔧 **Python Backend Developer** | ⚡ **FastAPI Enthusiast** | 🧠 Exploring **Data Science & Generative AI**
 
@@ -9,13 +9,13 @@
 ## 🧑‍💻 About Me
 
 - 💻 I build fast, scalable APIs using **Python** and **FastAPI**
-- 📈 Exploring **Data Science**, **Machine Learning**, and **Gen AI**
-- 🛠️ Focused on intelligent, data-driven backend systems
-- 🤝 Always open to learning, sharing, and collaborating on Python projects
+- 📊 Exploring **Data Science**, **ML**, and **Generative AI**
+- 🛠️ Building intelligent, data-driven backend systems
+- 🤝 Open to collaboration on exciting Python projects
 
 ---
 
-## ⚙️ Skills & Tools
+## ⚙️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
@@ -26,19 +26,27 @@
 
 ---
 
-## 🚀 Goals
+## 🔥 GitHub Streaks
 
-- 🧱 Strengthen backend architecture and DevOps skills
-- 🤖 Build intelligent tools using AI and automation
-- 🌐 Contribute to open-source **FastAPI** and **ML** projects
+[![GitHub Streak](https://streak-stats.demolab.com?user=priyanshugairola&theme=default)](https://git.io/streak-stats)
 
 ---
 
-## 📫 Get in Touch
+## 📊 GitHub Stats
+
+![Priyanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyanshugairola&show_icons=true&theme=default&hide_border=true)
+
+---
+
+## 🎯 Goals
+
+- 📦 Master backend architecture & DevOps
+- 🤖 Build smart tools using AI
+- 🌱 Contribute to open-source FastAPI + ML projects
+
+---
+
+## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshu-gairola-profile)  
-📧 Email: **priyanshugairola03@gmail.com**
-
----
-
-
+📧 **priyanshugairola03@gmail.com**
