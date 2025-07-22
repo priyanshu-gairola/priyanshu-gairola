@@ -28,13 +28,7 @@
 
 ## 🔥 GitHub Streaks
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=priyanshugairola&theme=default)](https://git.io/streak-stats)
-
----
-
-## 📊 GitHub Stats
-
-![Priyanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyanshugairola&show_icons=true&theme=default&hide_border=true)
+https://streak-stats.demolab.com/?user=priyanshugairola
 
 ---
 
