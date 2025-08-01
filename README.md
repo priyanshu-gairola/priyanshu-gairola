@@ -13,7 +13,7 @@
 - 🛠️ Building intelligent, data-driven backend systems
 - 🤝 Open to collaboration on exciting Python projects
 
----
+
 
 ## ⚙️ Tech Stack
 
