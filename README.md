@@ -1,46 +1,86 @@
-# 👋 Hi, I'm Priyanshu Gairola
+# Hi, I’m Priyanshu Gairola 👋
 
-🔧 **Python Backend Developer** | ⚡ **FastAPI Enthusiast** | 🧠 Exploring **Data Science & Generative AI**
+DevOps / Cloud Engineer with 2+ years of experience working on enterprise production infrastructure at DXC Technology.  
+I have hands-on experience in infrastructure build, platform implementation, migrations, and decommissioning projects across Linux and Windows environments.
 
-![Profile Views](https://komarev.com/ghpvc/?username=priyanshugairola&color=blue)
-
----
-
-## 🧑‍💻 About Me
-
-- 💻 I build fast, scalable APIs using **Python** and **FastAPI**
-- 📊 Exploring **Data Science**, **ML**, and **Generative AI**
-- 🛠️ Building intelligent, data-driven backend systems
-- 🤝 Open to collaboration on exciting Python projects
-
-
-
-## ⚙️ Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+My background combines infrastructure reliability with backend development, allowing me to build and deploy systems that are both scalable and production-ready.
 
 ---
 
-## 🔥 GitHub Streaks
+## 🔧 What I Work On
 
-https://streak-stats.demolab.com/?user=priyanshugairola
+- Enterprise infrastructure build and migration projects
+- Linux-based systems and cloud-integrated platforms
+- Python-based automation and backend services
+- Containerized applications using Docker
+- SLA-driven production operations and reliability
+
+Alongside my professional work, I actively build backend systems using **FastAPI** and **PostgreSQL**, with a strong focus on deployment, monitoring, and DevOps best practices.
 
 ---
 
-## 🎯 Goals
+## 🛠️ Tech Stack
 
-- 📦 Master backend architecture & DevOps
-- 🤖 Build smart tools using AI
-- 🌱 Contribute to open-source FastAPI + ML projects
+**Languages & Backend**
+- Python
+- FastAPI
+- REST APIs
+
+**Databases**
+- PostgreSQL
+- SQLite
+
+**DevOps & Cloud**
+- Docker
+- Git & GitHub
+- CI/CD concepts (GitHub Actions – learning)
+- Microsoft Azure (VMs, Storage, Replication – fundamentals)
+
+**Operating Systems**
+- Linux
+- Windows Server
+
+**Enterprise Tools**
+- Veritas NetBackup
+- HPE Data Protector
+- ServiceNow (ITIL)
+
+---
+
+## 🧠 Professional Background
+
+- Infrastructure Analyst at **DXC Technology**
+- Worked on platform build and implementation, followed by structured handover to operations teams
+- Supported large-scale migrations and version upgrades (1200+ servers)
+- Executed final full backups and secure archival for decommissioning initiatives
+- Experience with SLA-driven operations, monitoring, and root-cause analysis
+
+---
+
+## 📜 Certifications
+
+- Microsoft Azure Fundamentals (AZ-900)
+- Microsoft Azure AI Fundamentals (AI-900)
+- Dell EMC Associate – Information Storage and Management (ISM) v5.0
+
+---
+
+## 🎯 Career Focus
+
+I am actively pursuing opportunities as a:
+- **DevOps Engineer**
+- **Cloud Engineer**
+- **Platform Engineer**
+
+My goal is to work on reliable, scalable systems where infrastructure, automation, and backend engineering intersect.
 
 ---
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshu-gairola-profile)  
-📧 **priyanshugairola03@gmail.com**
+- **LinkedIn:** www.linkedin.com/in/priyanshu-gairola-profile
+- **Email:** priyanshugairola03@gmail.com
+
+---
+
+⭐ If you find my work interesting, feel free to explore my repositories or connect with me.
