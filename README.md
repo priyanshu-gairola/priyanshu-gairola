@@ -73,7 +73,6 @@ I focus on building stable, production-oriented systems using Docker, CI/CD auto
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=priyanshu-gairola&show_icons=true&theme=default" />
 </p>
-
 ---
 
 ## 🎯 Career Focus
