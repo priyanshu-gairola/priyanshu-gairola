@@ -1,56 +1,78 @@
 👋 Hi, I’m Priyanshu Gairola
 
-DevOps / Cloud Engineer with 2+ years of production infrastructure experience at DXC Technology. I specialize in operational reliability, containerized deployments, and cloud-based system management.
+🚀 DevOps / Cloud Engineer | AWS | Docker | CI/CD | Linux
 
-My background in enterprise infrastructure combined with hands-on DevOps implementation enables me to design and deploy stable, production-oriented systems.
+DevOps-focused Infrastructure Engineer with 2+ years of production experience at DXC Technology. Experienced in SLA-driven enterprise environments with strong foundations in troubleshooting, system reliability, and cloud-based deployments.
 
-🔧 What I Focus On
+I build and deploy containerized applications with a focus on deployment safety, automation, and operational stability.
 
-Docker-based container deployments
+🔧 Core Focus
+
+Containerized deployments using Docker
 
 CI/CD automation with GitHub Actions
 
-AWS EC2 application hosting
+AWS EC2-based application hosting
 
-Immutable image tagging & rollback strategies
+Immutable image tagging & rollback strategy
 
-Restart policy behavior and crash diagnostics
+Restart policy behavior & crash diagnostics
 
-SLA-driven production troubleshooting
+Production troubleshooting & reliability
 
 🛠 Tech Stack
 DevOps & Cloud
 
-Docker
-GitHub Actions
 AWS EC2
+
+Docker
+
+GitHub Actions
+
 Linux
 
-Programming & Backend (Learning Projects)
+Programming
 
 Python
-FastAPI
+
+FastAPI (learning projects)
+
 REST APIs
-PostgreSQL
 
 Enterprise Infrastructure
 
 Veritas NetBackup
+
 HPE Data Protector
-ServiceNow (ITIL)
 
-🧠 Professional Background
+ServiceNow (ITIL processes)
 
-Infrastructure Analyst I at DXC Technology
+🧠 Professional Experience
 
-Worked in SLA-driven enterprise production environment
+Infrastructure Analyst I – DXC Technology
 
-Supported large-scale migration initiatives (1200+ servers)
+Worked in SLA-driven enterprise production environments
 
-Performed log-based root cause analysis
+Supported migration initiatives across 1200+ servers
+
+Performed log-based root cause analysis and troubleshooting
 
 Contributed to multi-site infrastructure deployments
 
-🎯 Career Focus
+📜 Certifications
 
-Actively pursuing DevOps / Cloud Engineer opportunities focused on automation, deployment reliability, and scalable infrastructure.
+Microsoft Azure Fundamentals (AZ-900)
+
+Microsoft Azure AI Fundamentals (AI-900)
+
+Dell EMC Associate – ISM v5.0
+
+🎯 Career Objective
+
+Seeking DevOps / Cloud Engineer roles where I can apply automation, containerization, and cloud deployment practices to build reliable and scalable systems.
+
+📫 Connect With Me
+
+🔗 LinkedIn: https://www.linkedin.com/in/priyanshu-gairola-profile
+
+📧 Email: priyanshugairola03@gmail.com
