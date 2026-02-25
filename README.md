@@ -1,78 +1,93 @@
-👋 Hi, I’m Priyanshu Gairola
+<h1 align="center">Hi 👋, I'm Priyanshu Gairola</h1>
+<h3 align="center">DevOps / Cloud Engineer | AWS | Docker | CI/CD | Linux</h3>
 
-🚀 DevOps / Cloud Engineer | AWS | Docker | CI/CD | Linux
+---
 
-DevOps-focused Infrastructure Engineer with 2+ years of production experience at DXC Technology. Experienced in SLA-driven enterprise environments with strong foundations in troubleshooting, system reliability, and cloud-based deployments.
+## 🚀 About Me
 
-I build and deploy containerized applications with a focus on deployment safety, automation, and operational stability.
+DevOps-focused Infrastructure Engineer with 2+ years of production experience at DXC Technology.  
+Strong foundation in operational reliability, troubleshooting, and containerized cloud deployments.
 
-🔧 Core Focus
+I focus on building stable, production-oriented systems using Docker, CI/CD automation, and AWS EC2.
 
-Containerized deployments using Docker
+---
 
-CI/CD automation with GitHub Actions
+## 🔧 Core Focus
 
-AWS EC2-based application hosting
+- 🐳 Containerized deployments using Docker  
+- ⚙️ CI/CD automation with GitHub Actions  
+- ☁️ AWS EC2-based application hosting  
+- 🔁 Immutable image tagging & rollback strategy  
+- 📊 Restart policy behavior & crash diagnostics  
+- 🛠 Production troubleshooting & SLA-driven reliability  
 
-Immutable image tagging & rollback strategy
+---
 
-Restart policy behavior & crash diagnostics
+## 🛠 Tech Stack
 
-Production troubleshooting & reliability
+### 🚀 DevOps & Cloud
 
-🛠 Tech Stack
-DevOps & Cloud
+![AWS](https://img.shields.io/badge/AWS-EC2-orange?style=for-the-badge&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-Containerization-blue?style=for-the-badge&logo=docker)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI/CD-black?style=for-the-badge&logo=githubactions)
+![Linux](https://img.shields.io/badge/Linux-System_Operations-yellow?style=for-the-badge&logo=linux)
 
-AWS EC2
+---
 
-Docker
+### 💻 Programming
 
-GitHub Actions
+![Python](https://img.shields.io/badge/Python-Backend-blue?style=for-the-badge&logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-Learning-green?style=for-the-badge&logo=fastapi)
 
-Linux
+---
 
-Programming
+### 🏢 Enterprise Tools
 
-Python
+![NetBackup](https://img.shields.io/badge/Veritas-NetBackup-red?style=for-the-badge)
+![Data Protector](https://img.shields.io/badge/HPE-Data_Protector-green?style=for-the-badge)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-ITIL-darkgreen?style=for-the-badge)
 
-FastAPI (learning projects)
+---
 
-REST APIs
+## 🧠 Professional Experience
 
-Enterprise Infrastructure
+**Infrastructure Analyst I – DXC Technology**
 
-Veritas NetBackup
+- Worked in SLA-driven enterprise production environments  
+- Supported migration initiatives across 1200+ servers  
+- Performed log-based root cause analysis  
+- Contributed to multi-site infrastructure deployments  
 
-HPE Data Protector
+---
 
-ServiceNow (ITIL processes)
+## 📜 Certifications
 
-🧠 Professional Experience
+- Microsoft Azure Fundamentals (AZ-900)  
+- Microsoft Azure AI Fundamentals (AI-900)  
+- Dell EMC Associate – ISM v5.0  
 
-Infrastructure Analyst I – DXC Technology
+---
 
-Worked in SLA-driven enterprise production environments
+## 📈 GitHub Stats
 
-Supported migration initiatives across 1200+ servers
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=priyanshu-gairola&show_icons=true&theme=default" />
+</p>
 
-Performed log-based root cause analysis and troubleshooting
+---
 
-Contributed to multi-site infrastructure deployments
+## 🎯 Career Focus
 
-📜 Certifications
+Actively seeking DevOps / Cloud Engineer roles focused on:
 
-Microsoft Azure Fundamentals (AZ-900)
+- Automation  
+- Containerization  
+- Deployment reliability  
+- Scalable infrastructure  
 
-Microsoft Azure AI Fundamentals (AI-900)
+---
 
-Dell EMC Associate – ISM v5.0
+## 📫 Connect With Me
 
-🎯 Career Objective
-
-Seeking DevOps / Cloud Engineer roles where I can apply automation, containerization, and cloud deployment practices to build reliable and scalable systems.
-
-📫 Connect With Me
-
-🔗 LinkedIn: https://www.linkedin.com/in/priyanshu-gairola-profile
-
-📧 Email: priyanshugairola03@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/priyanshu-gairola-profile)  
+📧 priyanshugairola03@gmail.com  
