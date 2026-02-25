@@ -1,86 +1,56 @@
-# Hi, I’m Priyanshu Gairola 👋
+👋 Hi, I’m Priyanshu Gairola
 
-DevOps / Cloud Engineer with 2+ years of experience working on enterprise production infrastructure at DXC Technology.  
-I have hands-on experience in infrastructure build, platform implementation, migrations, and decommissioning projects across Linux and Windows environments.
+DevOps / Cloud Engineer with 2+ years of production infrastructure experience at DXC Technology. I specialize in operational reliability, containerized deployments, and cloud-based system management.
 
-My background combines infrastructure reliability with backend development, allowing me to build and deploy systems that are both scalable and production-ready.
+My background in enterprise infrastructure combined with hands-on DevOps implementation enables me to design and deploy stable, production-oriented systems.
 
----
+🔧 What I Focus On
 
-## 🔧 What I Work On
+Docker-based container deployments
 
-- Enterprise infrastructure build and migration projects
-- Linux-based systems and cloud-integrated platforms
-- Python-based automation and backend services
-- Containerized applications using Docker
-- SLA-driven production operations and reliability
+CI/CD automation with GitHub Actions
 
-Alongside my professional work, I actively build backend systems using **FastAPI** and **PostgreSQL**, with a strong focus on deployment, monitoring, and DevOps best practices.
+AWS EC2 application hosting
 
----
+Immutable image tagging & rollback strategies
 
-## 🛠️ Tech Stack
+Restart policy behavior and crash diagnostics
 
-**Languages & Backend**
-- Python
-- FastAPI
-- REST APIs
+SLA-driven production troubleshooting
 
-**Databases**
-- PostgreSQL
-- SQLite
+🛠 Tech Stack
+DevOps & Cloud
 
-**DevOps & Cloud**
-- Docker
-- Git & GitHub
-- CI/CD concepts (GitHub Actions – learning)
-- Microsoft Azure (VMs, Storage, Replication – fundamentals)
+Docker
+GitHub Actions
+AWS EC2
+Linux
 
-**Operating Systems**
-- Linux
-- Windows Server
+Programming & Backend (Learning Projects)
 
-**Enterprise Tools**
-- Veritas NetBackup
-- HPE Data Protector
-- ServiceNow (ITIL)
+Python
+FastAPI
+REST APIs
+PostgreSQL
 
----
+Enterprise Infrastructure
 
-## 🧠 Professional Background
+Veritas NetBackup
+HPE Data Protector
+ServiceNow (ITIL)
 
-- Infrastructure Analyst at **DXC Technology**
-- Worked on platform build and implementation, followed by structured handover to operations teams
-- Supported large-scale migrations and version upgrades (1200+ servers)
-- Executed final full backups and secure archival for decommissioning initiatives
-- Experience with SLA-driven operations, monitoring, and root-cause analysis
+🧠 Professional Background
 
----
+Infrastructure Analyst I at DXC Technology
 
-## 📜 Certifications
+Worked in SLA-driven enterprise production environment
 
-- Microsoft Azure Fundamentals (AZ-900)
-- Microsoft Azure AI Fundamentals (AI-900)
-- Dell EMC Associate – Information Storage and Management (ISM) v5.0
+Supported large-scale migration initiatives (1200+ servers)
 
----
+Performed log-based root cause analysis
 
-## 🎯 Career Focus
+Contributed to multi-site infrastructure deployments
 
-I am actively pursuing opportunities as a:
-- **DevOps Engineer**
-- **Cloud Engineer**
-- **Platform Engineer**
+🎯 Career Focus
 
-My goal is to work on reliable, scalable systems where infrastructure, automation, and backend engineering intersect.
-
----
-
-## 📫 Connect With Me
-
-- **LinkedIn:** www.linkedin.com/in/priyanshu-gairola-profile
-- **Email:** priyanshugairola03@gmail.com
-
----
-
-⭐ If you find my work interesting, feel free to explore my repositories or connect with me.
+Actively pursuing DevOps / Cloud Engineer opportunities focused on automation, deployment reliability, and scalable infrastructure.
