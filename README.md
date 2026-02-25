@@ -66,12 +66,6 @@ I focus on building stable, production-oriented systems using Docker, CI/CD auto
 - Microsoft Azure AI Fundamentals (AI-900)  
 - Dell EMC Associate – ISM v5.0  
 
----
-
-## 📈 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=priyanshu-gairola&show_icons=true&theme=tokyonight" />
-
 
 ## 🎯 Career Focus
 
