@@ -1,84 +1,50 @@
-<h1 align="center">Hi 👋, I'm Priyanshu Gairola</h1>
-<h3 align="center">DevOps / Cloud Engineer | AWS | Docker | CI/CD | Linux</h3>
+# Hi, I'm Priyanshu Gairola 👋
+
+**Cloud & DevOps Engineer** — transitioning from 2.5+ years of enterprise infrastructure & production support into Cloud-Native and DevOps Engineering.
+
+I build production-style platforms using **AWS, Docker, Kubernetes, Terraform, and GitHub Actions CI/CD** — focused on automation, reliability, and infrastructure as code.
 
 ---
 
-## 🚀 About Me
+## 🚀 Featured Projects
 
-DevOps-focused Infrastructure Engineer with 2+ years of production experience at DXC Technology.  
-Strong foundation in operational reliability, troubleshooting, and containerized cloud deployments.
+### [CloudDeployX — Container Orchestration & IaC Platform](https://github.com/priyanshu-gairola/clouddeployx)
+End-to-end DevOps platform: containerized Python/FastAPI app → GitHub Actions CI/CD → Amazon ECR → Terraform-provisioned AWS infra → Kubernetes orchestration with Deployments, Ingress, ConfigMaps, Secrets, Liveness/Readiness Probes, and Rolling Updates.
 
-I focus on building stable, production-oriented systems using Docker, CI/CD automation, and AWS EC2.
-
----
-
-## 🔧 Core Focus
-
-- 🐳 Containerized deployments using Docker  
-- ⚙️ CI/CD automation with GitHub Actions  
-- ☁️ AWS EC2-based application hosting  
-- 🔁 Immutable image tagging & rollback strategy  
-- 📊 Restart policy behavior & crash diagnostics  
-- 🛠 Production troubleshooting & SLA-driven reliability  
+`Docker` `Kubernetes` `Terraform` `GitHub Actions` `AWS` `ECR` `Python`
 
 ---
 
-## 🛠 Tech Stack
+### [Cloud-Native Auto-Scaled Deployment on AWS](https://github.com/priyanshu-gairola/Devops-app)
+Highly available, fault-tolerant AWS architecture: ALB → Target Group → Auto Scaling Group → EC2 → Docker. GitHub Actions CI/CD pipeline with image versioning (commit SHA). Failure-tested by manually terminating EC2 instances and confirming ASG replacement + ALB rerouting.
 
-### 🚀 DevOps & Cloud
-
-![AWS](https://img.shields.io/badge/AWS-EC2-orange?style=for-the-badge&logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-Containerization-blue?style=for-the-badge&logo=docker)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI/CD-black?style=for-the-badge&logo=githubactions)
-![Linux](https://img.shields.io/badge/Linux-System_Operations-yellow?style=for-the-badge&logo=linux)
+`AWS` `ALB` `Auto Scaling` `EC2` `Docker` `GitHub Actions` `ECR` `IAM` `CloudWatch` `SNS`
 
 ---
 
-### 💻 Programming
+## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-Backend-blue?style=for-the-badge&logo=python)
-![FastAPI](https://img.shields.io/badge/FastAPI-Learning-green?style=for-the-badge&logo=fastapi)
-
----
-
-### 🏢 Enterprise Tools
-
-![NetBackup](https://img.shields.io/badge/Veritas-NetBackup-red?style=for-the-badge)
-![Data Protector](https://img.shields.io/badge/HPE-Data_Protector-green?style=for-the-badge)
-![ServiceNow](https://img.shields.io/badge/ServiceNow-ITIL-darkgreen?style=for-the-badge)
-
----
-
-## 🧠 Professional Experience
-
-**Infrastructure Analyst I – DXC Technology**
-
-- Worked in SLA-driven enterprise production environments  
-- Supported migration initiatives across 1200+ servers  
-- Performed log-based root cause analysis  
-- Contributed to multi-site infrastructure deployments  
+| Category | Tools |
+|---|---|
+| **Cloud** | AWS (EC2, ECR, ALB, ASG, IAM, CloudWatch, SNS) |
+| **IaC** | Terraform |
+| **Containers** | Docker, Kubernetes |
+| **CI/CD** | GitHub Actions |
+| **Programming** | Python, FastAPI, Bash |
+| **OS** | Linux |
+| **Version Control** | Git, GitHub |
 
 ---
 
 ## 📜 Certifications
 
-- Microsoft Azure Fundamentals (AZ-900)  
-- Microsoft Azure AI Fundamentals (AI-900)  
-- Dell EMC Associate – ISM v5.0  
-
-
-## 🎯 Career Focus
-
-Actively seeking DevOps / Cloud Engineer roles focused on:
-
-- Automation  
-- Containerization  
-- Deployment reliability  
-- Scalable infrastructure  
+- ☁️ AWS Certified Cloud Practitioner (CLF-C02)
+- 🔷 Microsoft Azure Fundamentals (AZ-900)
+- 🤖 Microsoft Azure AI Fundamentals (AI-900)
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect
 
-🔗 [LinkedIn](https://www.linkedin.com/in/priyanshu-gairola-profile)  
-📧 priyanshugairola03@gmail.com  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Priyanshu%20Gairola-blue?logo=linkedin)](https://www.linkedin.com/in/priyanshu-gairola-profile/)
+[![Email](https://img.shields.io/badge/Email-priyanshugairola03@gmail.com-red?logo=gmail)](mailto:priyanshugairola03@gmail.com)
