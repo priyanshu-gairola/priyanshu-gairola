@@ -26,7 +26,7 @@ End-to-end DevOps platform: Python/FastAPI app → GitHub Actions CI/CD → Amaz
 
 ---
 
-### ⚡ [Cloud-Native Auto-Scaled Deployment on AWS](https://github.com/priyanshu-gairola/Devops-app)
+### ⚡ [Cloud-Native Auto-Scaled Deployment on AWS](https://github.com/priyanshu-gairola/aws-autoscaled-deployment)
 Highly available, fault-tolerant AWS architecture: **ALB → Target Group → Auto Scaling Group → EC2 → Docker**.  
 GitHub Actions CI/CD with commit SHA image tagging for rollback traceability. Failure-tested by manually terminating EC2 instances and confirming ASG replacement + ALB rerouting without downtime.
 
