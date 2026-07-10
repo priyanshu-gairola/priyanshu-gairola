@@ -1,50 +1,72 @@
-# Hi, I'm Priyanshu Gairola 👋
+<h1 align="center">Hi 👋, I'm Priyanshu Gairola</h1>
+<h3 align="center">Cloud & DevOps Engineer | AWS | Kubernetes | Terraform | Docker | CI/CD</h3>
 
-**Cloud & DevOps Engineer** — transitioning from 2.5+ years of enterprise infrastructure & production support into Cloud-Native and DevOps Engineering.
+<p align="center">
+  <a href="https://www.linkedin.com/in/priyanshu-gairola-profile/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:priyanshugairola03@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
-I build production-style platforms using **AWS, Docker, Kubernetes, Terraform, and GitHub Actions CI/CD** — focused on automation, reliability, and infrastructure as code.
+---
+
+Infrastructure Engineer with **2.5+ years** in enterprise production support at DXC Technology, transitioning into Cloud & DevOps Engineering.  
+I build **production-grade platforms** using AWS, Docker, Kubernetes, Terraform, and GitHub Actions — focused on automation, reliability, and infrastructure as code.
 
 ---
 
 ## 🚀 Featured Projects
 
-### [CloudDeployX — Container Orchestration & IaC Platform](https://github.com/priyanshu-gairola/clouddeployx)
-End-to-end DevOps platform: containerized Python/FastAPI app → GitHub Actions CI/CD → Amazon ECR → Terraform-provisioned AWS infra → Kubernetes orchestration with Deployments, Ingress, ConfigMaps, Secrets, Liveness/Readiness Probes, and Rolling Updates.
+### 🔷 [CloudDeployX — Container Orchestration & IaC Platform](https://github.com/priyanshu-gairola/clouddeployx)
+End-to-end DevOps platform: Python/FastAPI app → GitHub Actions CI/CD → Amazon ECR → Terraform-provisioned AWS infrastructure → Kubernetes with Deployments, Ingress, ConfigMaps, Secrets, Liveness/Readiness Probes, Rolling Updates & Rollbacks.
 
-`Docker` `Kubernetes` `Terraform` `GitHub Actions` `AWS` `ECR` `Python`
+`Docker` `Kubernetes` `Terraform` `GitHub Actions` `AWS EC2` `Amazon ECR` `Python` `FastAPI`
 
 ---
 
-### [Cloud-Native Auto-Scaled Deployment on AWS](https://github.com/priyanshu-gairola/Devops-app)
-Highly available, fault-tolerant AWS architecture: ALB → Target Group → Auto Scaling Group → EC2 → Docker. GitHub Actions CI/CD pipeline with image versioning (commit SHA). Failure-tested by manually terminating EC2 instances and confirming ASG replacement + ALB rerouting.
+### ⚡ [Cloud-Native Auto-Scaled Deployment on AWS](https://github.com/priyanshu-gairola/Devops-app)
+Highly available, fault-tolerant AWS architecture: **ALB → Target Group → Auto Scaling Group → EC2 → Docker**.  
+GitHub Actions CI/CD with commit SHA image tagging for rollback traceability. Failure-tested by manually terminating EC2 instances and confirming ASG replacement + ALB rerouting without downtime.
 
-`AWS` `ALB` `Auto Scaling` `EC2` `Docker` `GitHub Actions` `ECR` `IAM` `CloudWatch` `SNS`
+`AWS` `ALB` `Auto Scaling Groups` `EC2` `Docker` `GitHub Actions` `ECR` `IAM` `CloudWatch` `SNS`
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Category | Tools |
-|---|---|
-| **Cloud** | AWS (EC2, ECR, ALB, ASG, IAM, CloudWatch, SNS) |
-| **IaC** | Terraform |
-| **Containers** | Docker, Kubernetes |
-| **CI/CD** | GitHub Actions |
-| **Programming** | Python, FastAPI, Bash |
-| **OS** | Linux |
-| **Version Control** | Git, GitHub |
+### ☁️ Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-EC2%20|%20ECR%20|%20ALB%20|%20ASG%20|%20IAM%20|%20CloudWatch-orange?style=for-the-badge&logo=amazonaws)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-purple?style=for-the-badge&logo=terraform)
+
+### 🐳 Containers & Orchestration
+![Docker](https://img.shields.io/badge/Docker-Containerization-blue?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes)
+
+### ⚙️ CI/CD & Automation
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI/CD-black?style=for-the-badge&logo=githubactions)
+![Linux](https://img.shields.io/badge/Linux-Administration-yellow?style=for-the-badge&logo=linux)
+
+### 💻 Programming
+![Python](https://img.shields.io/badge/Python-FastAPI%20|%20Scripting-blue?style=for-the-badge&logo=python)
+![Bash](https://img.shields.io/badge/Bash-Shell_Scripting-green?style=for-the-badge&logo=gnubash)
 
 ---
 
 ## 📜 Certifications
 
-- ☁️ AWS Certified Cloud Practitioner (CLF-C02)
+- ☁️ **AWS Certified Cloud Practitioner** (CLF-C02)
 - 🔷 Microsoft Azure Fundamentals (AZ-900)
 - 🤖 Microsoft Azure AI Fundamentals (AI-900)
 
 ---
 
-## 📫 Connect
+## 💼 Experience
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Priyanshu%20Gairola-blue?logo=linkedin)](https://www.linkedin.com/in/priyanshu-gairola-profile/)
-[![Email](https://img.shields.io/badge/Email-priyanshugairola03@gmail.com-red?logo=gmail)](mailto:priyanshugairola03@gmail.com)
+**Infrastructure Analyst I** *(Promoted from Analyst II)* — **DXC Technology** | Oct 2023 – Present
+- Managed SLA-driven backup operations for **1000+ production servers**
+- Contributed to migration of **1200+ servers** within an aggressive 3-month timeline
+- Built and configured NetBackup infrastructure for newly onboarded servers
+- Performed root cause analysis on production incidents using logs and monitoring tools
+- Awarded 🏆 **DXC Champion's Award** (July 2025)
