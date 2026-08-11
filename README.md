@@ -12,8 +12,8 @@
 
 ---
 
-Infrastructure Engineer with **2.5+ years** in enterprise production support at DXC Technology, transitioning into Cloud & DevOps Engineering.  
-I build **production-grade platforms** using AWS, Docker, Kubernetes, Terraform, and GitHub Actions — focused on automation, reliability, and infrastructure as code.
+Infrastructure Engineer with **2.5+ years of enterprise production experience at DXC Technology**, focused on building **reliable, scalable, and automated cloud infrastructure**. Experienced with **AWS, Docker, Kubernetes, Terraform, and GitHub Actions**, with hands-on expertise in **Infrastructure as Code, CI/CD, containerization, automation, and production reliability**.
+.
 
 ---
 
