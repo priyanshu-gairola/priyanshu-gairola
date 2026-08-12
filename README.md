@@ -17,7 +17,7 @@ Infrastructure Engineer with **2.5+ years of enterprise production experience at
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Devops Featured Projects
 
 ### 🔷 [CloudDeployX — Container Orchestration & IaC Platform](https://github.com/priyanshu-gairola/clouddeployx)
 End-to-end DevOps platform: Python/FastAPI app → GitHub Actions CI/CD → Amazon ECR → Terraform-provisioned AWS infrastructure → Kubernetes with Deployments, Ingress, ConfigMaps, Secrets, Liveness/Readiness Probes, Rolling Updates & Rollbacks.
@@ -59,7 +59,7 @@ GitHub Actions CI/CD with commit SHA image tagging for rollback traceability. Fa
 - ☁️ **AWS Certified Cloud Practitioner** (CLF-C02)
 - 🔷 Microsoft Azure Fundamentals (AZ-900)
 - 🤖 Microsoft Azure AI Fundamentals (AI-900)
-
+ 
 ---
 
 ## 💼 Experience
