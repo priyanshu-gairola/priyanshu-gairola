@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Priyanshu Gairola</h1>
+<h1 align="center">Hi 👋, I'm Priyanshu Gairola </h1>
 <h3 align="center">Cloud & DevOps Engineer | AWS | Kubernetes | Terraform | Docker | CI/CD</h3>
 
 <p align="center">
