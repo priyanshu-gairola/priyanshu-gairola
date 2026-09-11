@@ -72,4 +72,10 @@ GitHub Actions CI/CD with commit SHA image tagging for rollback traceability. Fa
 
 ## 💼 Experience
 
-**Infrastructure Analyst I** *(Promoted from
+**Infrastructure Analyst I** *(Promoted from Analyst II)* — **DXC Technology** | Oct 2023 – Present
+
+- Managed SLA-driven backup operations for **1,000+ production servers**
+- Contributed to migration of **1,200+ servers** within an aggressive 3-month timeline
+- Built and configured NetBackup infrastructure for newly onboarded servers
+- Performed root cause analysis on production incidents using logs and monitoring tools
+- Awarded 🏆 **DXC Champion's Award** (July 2025)
