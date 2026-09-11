@@ -15,7 +15,7 @@
 
 ---
 
-Cloud & DevOps Engineer with **2.5+ years of enterprise production experience at DXC Technology**, building **reliable, scalable, and automated cloud infrastructure**. Hands-on expertise in **AWS, Docker, Kubernetes (EKS), Terraform, and GitHub Actions CI/CD** — covering Infrastructure as Code, containerization, container orchestration, and production reliability.
+Infrastructure professional with **2.5+ years of enterprise production experience at DXC Technology**, actively transitioning into **Cloud & DevOps Engineering** through hands-on project work. Built and deployed production-style platforms using **AWS, Docker, Kubernetes (EKS), Terraform, and GitHub Actions CI/CD** — covering Infrastructure as Code, containerization, container orchestration, and automated deployment pipelines.
 
 ---
 
@@ -50,7 +50,6 @@ GitHub Actions CI/CD with commit SHA image tagging for rollback traceability. Fa
 
 ### ⚙️ CI/CD & Automation
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI/CD-black?style=for-the-badge&logo=githubactions)
-![Jenkins](https://img.shields.io/badge/Jenkins-Pipelines-red?style=for-the-badge&logo=jenkins)
 ![Linux](https://img.shields.io/badge/Linux-Administration-yellow?style=for-the-badge&logo=linux)
 
 ### 💻 Programming & Scripting
@@ -73,10 +72,4 @@ GitHub Actions CI/CD with commit SHA image tagging for rollback traceability. Fa
 
 ## 💼 Experience
 
-**Infrastructure Analyst I** *(Promoted from Analyst II)* — **DXC Technology** | Oct 2023 – Present
-
-- Managed SLA-driven backup operations for **1,000+ production servers**
-- Contributed to migration of **1,200+ servers** within an aggressive 3-month timeline
-- Built and configured NetBackup infrastructure for newly onboarded servers
-- Performed root cause analysis on production incidents using logs and monitoring tools
-- Awarded 🏆 **DXC Champion's Award** (July 2025)
+**Infrastructure Analyst I** *(Promoted from
