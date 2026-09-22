@@ -15,7 +15,7 @@
 
 ---
 
-Infrastructure professional with **2.5+ years of enterprise production experience at DXC Technology**, actively transitioning into **Cloud & DevOps Engineering** through hands-on project work. Built and deployed production-style platforms using **AWS, Docker, Kubernetes (EKS), Terraform, and GitHub Actions CI/CD** — covering Infrastructure as Code, containerization, container orchestration, and automated deployment pipelines.
+Infrastructure professional with **3 years of enterprise production experience at DXC Technology**, actively transitioning into **Cloud & DevOps Engineering** through hands-on project work. Built and deployed production-style platforms using **AWS, Docker, Kubernetes (EKS), Terraform, and GitHub Actions CI/CD** — covering Infrastructure as Code, containerization, container orchestration, and automated deployment pipelines.
 
 ---
 
